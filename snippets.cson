@@ -1,0 +1,48 @@
+'.text.html.basic':
+  'html':
+    'prefix': 'html5'
+    'body': """
+      <!DOCTYPE html>
+      <html>
+        <head>
+          <meta charset="utf-8">
+          <meta http-equiv="X-UA-Compatible" content="IE=edge">
+          <title></title>
+          <meta name="description" content="">
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+
+          <link rel="stylesheet" href="">
+        </head>
+        <body>
+
+          <script src=""></script>
+        </body>
+      </html>
+    """
+'.text.html.basic':
+  'html':
+    'prefix': 'table'
+    'body': """
+      <table>
+        <thead>
+          <tr>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td></td>
+          </tr>
+        </tbody>
+      </table>
+    """
+'.source.js':
+  'log':
+    'prefix': 'log'
+    'body': 'console.log($1)'
+'.source.js':
+  'format':
+    'prefix': 'use'
+    'body': """
+      'use strict'
+    """

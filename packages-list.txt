@@ -1,0 +1,12 @@
+atomic-emacs@0.9.1
+color-picker@2.1.1
+editorconfig@1.4.1
+emmet@2.4.3
+linter@1.11.4
+linter-eslint@7.2.2
+linter-stylelint@2.10.0
+linter-tidy@2.1.0
+open-in-browser@0.4.7
+seti-ui@1.2.2
+
+

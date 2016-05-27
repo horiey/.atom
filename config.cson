@@ -1,0 +1,14 @@
+"*":
+  core:
+    destroyEmptyPanes: false
+  editor:
+    fontSize: 21
+    invisibles:
+      space: " "
+    showIndentGuide: true
+    showInvisibles: true
+    softTabs: false
+  "exception-reporting":
+    userId: "39fb98d2-262f-6c3d-3ab7-62690f4588b9"
+  welcome:
+    showOnStartup: false
