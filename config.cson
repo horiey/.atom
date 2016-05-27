@@ -1,14 +1,19 @@
 "*":
   core:
     destroyEmptyPanes: false
+    themes: [
+      "seti-ui"
+      "solarized-dark-syntax"
+    ]
   editor:
     fontSize: 21
-    invisibles:
-      space: " "
+    invisibles: {}
     showIndentGuide: true
     showInvisibles: true
     softTabs: false
   "exception-reporting":
     userId: "39fb98d2-262f-6c3d-3ab7-62690f4588b9"
+  "seti-ui":
+    font: "Default Atom Font"
   welcome:
     showOnStartup: false

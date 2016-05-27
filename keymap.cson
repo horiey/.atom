@@ -16,9 +16,11 @@
  'ctrl-p': 'core:move-up'
  'ctrl-h': 'core:backspace'
  'ctrl-y': 'core:paste'
+ 'ctrl-w': 'core:cut'
 'atom-workspace atom-text-editor':
  'ctrl-k ctrl-u': 'unset!'
  'ctrl-k ctrl-l': 'unset!'
+ 'ctrl-c ctrl-v': 'open-in-browser:open'
 'atom-workspace atom-text-editor:not([mini])':
  'ctrl-k ctrl-0': 'unset!'
  'ctrl-k ctrl-1': 'unset!'
