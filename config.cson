@@ -1,8 +1,12 @@
 "*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "c50d2e49-1dd7-4851-8860-e7774fb17e44"
+    html: {}
   core:
     destroyEmptyPanes: false
     themes: [
-      "seti-ui"
+      "atom-dark-ui"
       "solarized-dark-syntax"
     ]
   editor:

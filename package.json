@@ -1,0 +1,23 @@
+{
+  "name": "dotatom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "stylelint-config-standard": "^8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhor1e/.atom.git"
+  },
+  "author": "yhorie <yuk.horie@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yhor1e/.atom/issues"
+  },
+  "homepage": "https://github.com/yhor1e/.atom#readme"
+}
