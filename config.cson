@@ -7,17 +7,24 @@
     destroyEmptyPanes: false
     themes: [
       "atom-dark-ui"
-      "solarized-dark-syntax"
+      "atom-dark-syntax"
     ]
   editor:
-    fontSize: 21
+    fontSize: 20
     invisibles: {}
     showIndentGuide: true
     showInvisibles: true
     softTabs: false
   "exception-reporting":
     userId: "39fb98d2-262f-6c3d-3ab7-62690f4588b9"
+  linter:
+    lintOnFly: false
+  "linter-eslint": {}
+  "linter-stylelint": {}
   "seti-ui":
     font: "Default Atom Font"
+  "terminal-plus":
+    toggles:
+      autoClose: true
   welcome:
     showOnStartup: false

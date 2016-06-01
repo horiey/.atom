@@ -9,6 +9,7 @@ linter-tidy@2.1.0
 markdown-preview@0.158.0
 open-in-browser@0.4.7
 seti-ui@1.2.2
+terminal-plus@0.14.5
 trailing-spaces@0.3.2
 
 
